@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1c2b44-262f-4b9c-b164-dc1b81cac5a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Android Studio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/ASPER_Task_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/app/ASPER_Task_1.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BreadNSugar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CityGuide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GetNews" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWOC Open Source/SHE--Live-Without-Fear" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListView_CustomAdapter_AddFriend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MemeShare" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NotesApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetrofitDemo/app/src/main/java/com/example/retrofitdemo/model/UserGet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SQLiteApplication" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/modules/TicTacToe_Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/.idea/modules/app/TicTacToe_Kotlin.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/androidTest/java/com/example/tictactoe_kotlin/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/java/com/example/tictactoe_kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/app/src/test/java/com/example/tictactoe_kotlin/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe_Kotlin/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1x2FYwItm7Iim0sHjw7zU9wYZzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1c2b44-262f-4b9c-b164-dc1b81cac5a6" name="Default Changelist" comment="" />
+      <created>1629545327232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629545327232</updated>
+    </task>
+    <servers />
+  </component>
+</project>
